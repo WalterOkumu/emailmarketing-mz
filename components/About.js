@@ -1,6 +1,5 @@
 export default function About() {
     return(
-
         <>
             <section className="mt-32 flex flex-col justify-center items-center mx-auto md:w-1/2 w-full">
                 <h1 className="px-16 md:px-0 text-5xl font-bold md:inline-block p-2 rounded-md text-[#070707] text-center">E-mail Marketing</h1>
