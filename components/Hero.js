@@ -12,7 +12,7 @@ export default function Hero() {
                 <ContactForm />
                 </div>
                 <div className="md:w-1/2 w-full self-center">
-                    {/*<h1 className="text-5xl font-bold bg-[#FBED04] md:inline-block p-2 rounded-md text-[#070707]">E-mail Marketing</h1>
+                    {/*<h1 className="text-5xl font-bold bg-[#FFF200] md:inline-block p-2 rounded-md text-[#070707]">E-mail Marketing</h1>
                     <h2 className="text-4xl md:text-left italic font-light pt-3">Faça o seu negócio chegar a <span className="font-bold">mais de 4000 clientes</span> com um único email!</h2>
                     <div className="pt-8">
                         <p className="leading-relaxed text-justify">
@@ -27,7 +27,7 @@ export default function Hero() {
                             económicas e ricas em conversões da atualidade.
                         </p>
                 </div>*/}
-                    <Image src={heroImage} alt="Black Friday" className="object-contain" layout="responsive" priority/>
+                    {/*<Image src={heroImage} alt="Black Friday" className="object-contain" layout="responsive" priority/>*/}
                 </div>
             </div>
         </div>
